@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="reports_cache" path="reports/" />
+    <files-path name="reports_files" path="reports/" />
+    <external-files-path name="reports_external_files" path="reports/" />
+    <external-cache-path name="reports_external_cache" path="reports/" />
+    <external-path name="reports_external_public" path="." />
+</paths>

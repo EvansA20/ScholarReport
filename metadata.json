@@ -1,0 +1,7 @@
+{
+  "name": "ScholarReport",
+  "description": "Comprehensive academic report writer for undergraduate and postgraduate students with grade analytics, comments synthesis, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
